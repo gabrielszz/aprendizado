@@ -1,0 +1,13 @@
+git diff           ~~~~~~~~~ver diferença
+git pull --force 
+git reset --hard
+git clone
+git clean -d -f
+
+
+git init
+git pull --force
+
+
+git pull www.wsede --force
+git reset -- hard
